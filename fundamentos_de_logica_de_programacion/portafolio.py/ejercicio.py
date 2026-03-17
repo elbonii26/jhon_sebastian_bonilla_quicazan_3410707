@@ -1,4 +1,4 @@
-##tortas de vainilla con rellenas
+##tortas de vainilla con relleno
 # horno temperatura 350ºf
 #pero el horno muestra al temperatura en ºc 
 # formula ºc=(ºf-32)/1.8
