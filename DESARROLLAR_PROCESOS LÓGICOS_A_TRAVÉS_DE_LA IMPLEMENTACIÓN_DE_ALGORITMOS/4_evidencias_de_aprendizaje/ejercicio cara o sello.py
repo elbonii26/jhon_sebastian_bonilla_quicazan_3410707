@@ -19,4 +19,11 @@ if eleccion == lanzamiento:
 else:
     print("Perdiste.")
     
+# que el 0 sea cara y el 1 sea sello
+if lanzamiento == 0:
+    print("La moneda cayó en cara.")        
+else:    print("La moneda cayó en sello.")
+    # error al colocar un numero diferente a 0 o 1
+if eleccion != 0 and eleccion != 1:
+    print("Error: Debes ingresar 0 para cara o 1 para sello.")  
     
